@@ -1,6 +1,4 @@
 ![Laptop](https://user-images.githubusercontent.com/101378760/236666349-6c8889de-f942-488a-a756-b1d7176c3b28.png)
-![Mobile](https://user-images.githubusercontent.com/101378760/236666354-b537abdb-f800-4bf6-9f96-ac7d455e01f1.png)
-![Tablet](https://user-images.githubusercontent.com/101378760/236666358-d02a55b9-7911-4d88-95d4-b7bb1b123ab6.png)
 
 # Getting Started with Create React App
 
