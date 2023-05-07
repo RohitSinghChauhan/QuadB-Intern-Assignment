@@ -1,0 +1,14 @@
+.container {
+    width: 80vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.container p {
+    font-style: italic;
+    font-size: 1.6rem;
+}

@@ -1,0 +1,38 @@
+.container {
+    width: 100vw;
+    height: 100vh;
+}
+
+.container h2 {
+    text-align: center;
+}
+
+.grid_div {
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    gap: 1rem;
+    width: 90vw;
+    margin: auto;
+}
+
+.item_card {
+    display: flex;
+    border: 1px solid gray;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: .8rem;
+}
+
+.item_btn {
+    background-color: royalblue;
+    color: whitesmoke;
+    border: none;
+    padding: .4rem;
+    cursor: pointer;
+}
+
+.item_btn:hover {
+    background-color: red;
+    transition: 200ms;
+}
