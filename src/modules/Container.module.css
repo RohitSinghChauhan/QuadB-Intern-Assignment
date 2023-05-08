@@ -36,3 +36,35 @@
     background-color: red;
     transition: 200ms;
 }
+
+
+/*MEDIA QUERIES*/
+@media all and (min-width: 768px) and (max-width: 1024px) {
+    .grid_div {
+        grid-template-columns: repeat(2, auto);
+    }
+}
+
+@media all and (min-width: 480px) and (max-width: 768px) {
+    .grid_div {
+        grid-template-columns: repeat(2, auto);
+    }
+}
+
+@media all and (max-width: 480px) {
+    .grid_div {
+        grid-template-columns: repeat(1, auto);
+    }
+
+    .container h2 {
+        font-size: 1rem;
+    }
+
+    .item_btn {
+        padding: .8rem;
+    }
+
+    .item_card img {
+        width: 50vw;
+    }
+}
